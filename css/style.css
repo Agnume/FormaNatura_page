@@ -187,3 +187,11 @@ opacity: 0.5;
 .roboto{
     color: black !important;
 }
+
+.op-60{
+    opacity: 0.6;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+    }
